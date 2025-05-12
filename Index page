@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>KORI</h1>
+    <h2> hi</h2>
+    <h3>hello</h3>
+    <p> hello nice to meet you </p>
+    <p> 123</p>
+    <button> 321</button>
+    <div>
+        <b> Bold</b>
+    </div>
+    <a href="https://frontendsimplified.com/discord" target="_blank">Discord Server</a>
+    <a href="/dashboard.html" target="_blank">Dashboard</a>
+    
+</body>
+</html>
